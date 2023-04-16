@@ -18,5 +18,5 @@ rosrun moveit_tutorials pick_place_custom
 ```
 
 ## Output:
-![]()
+![](https://github.com/mayankysharma/Enpm661-project4-moveit-pick-and-place/blob/main/pickandplace.gif)
 Youtube link - https://studio.youtube.com/video/GqjDxiWldMQ/edit
